@@ -1,0 +1,28 @@
+.Navbar {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px gray solid;
+}
+
+.nav-components {
+    width: 25%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.link {
+    color: gray;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.title {
+    width: 25%;
+    margin-left: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: x-large;
+}
